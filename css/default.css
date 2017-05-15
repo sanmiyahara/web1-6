@@ -31,3 +31,8 @@ dt{
   float: left;
   font-weight: bold;
 }
+
+.btn{
+  -webkit-appearance: none;
+  margin: 5px;
+}
