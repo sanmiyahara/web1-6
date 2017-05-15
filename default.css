@@ -1,8 +1,9 @@
-#ingredient{
-border: 2px solid lightcoral;
-  border-collapse: collapse;
+body{
+  background-color: "D0E0C0;
 }
 
-th, td{
-border: 1px solid lightcoral;
+#main{
+  padding: 40px 80px;
+  border: green 1px solid;
+  background-color: white;
 }
