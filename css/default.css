@@ -47,6 +47,7 @@ dt{
 
 #ingredient{
   border: 2px solid lightcoral;
+  border-collapse: collapse;
 }
 
 th, td{
