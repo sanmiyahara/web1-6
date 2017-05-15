@@ -44,3 +44,11 @@ dt{
 .btn-reset{
   background-color: lightcoral;
 }
+
+#ingredient{
+  border: 2px solid lightcoral;
+}
+
+th, td{
+  border: 1px solid lightcoral;
+}
