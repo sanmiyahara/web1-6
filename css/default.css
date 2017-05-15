@@ -36,3 +36,11 @@ dt{
   -webkit-appearance: none;
   margin: 5px;
 }
+
+.btn-sumbit{
+  background-color: silver;
+}
+
+.btn-reset{
+  background-color: lightcoral;
+}
